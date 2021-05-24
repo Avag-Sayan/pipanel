@@ -76,7 +76,7 @@ msgstr "Ընտրել նկարը էկրանի համար"
 
 #: ../data/pipanel.ui.h:12
 msgid "Colour"
-msgstr "Գույն՝"
+msgstr "Գույնը՝"
 
 #: ../data/pipanel.ui.h:13
 msgid "Choose the colour of the desktop background"
